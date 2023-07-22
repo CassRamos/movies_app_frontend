@@ -2,6 +2,54 @@
 <a href="https://github.com/CassRamos/movies_app_backend" target="_blank"> Click here to check out the Java back-end of this project</a>
 <br>
 <br>
+
+<h1 align="center"> Movies </h1>
+<p align="center">
+  <img alt="All is ok" src="./img_front/app.png" width="80%">
+</p>
+
+<p align="center">
+This repository is a front-end file of movies application<br/>
+</p>
+
+### Back-end is not running:
+<p> If you don't run the backend, the following will be rendered: </p>
+<p align="center">
+  <img alt="Back-end down" src="./img_front/back_down.png" width="80%">
+</p>
+
+<p align="center">
+  <a href="#-tecnologies">Tecnologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>
+</p>
+
+
+<br>
+
+## 🚀 Tecnologies
+
+This project was developed with the following technologies:
+
+- JavaScript & React.js
+- Html & CSS
+- Node.js
+- Git & Github 
+ 
+
+
+## 💻 Project
+
+Movies is an app responsible for showing the images and trailers of some movies on a carousel and provides a page to add reviews for an exclusive movie.
+
+
+## :memo: License
+
+This project is under license from MIT
+
+<br>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
