@@ -1,3 +1,7 @@
+# Back-end repository: 
+<a href="https://github.com/CassRamos/movies_app_backend" target="_blank"> Click here to check out the Java back-end of this project</a>
+<br>
+<br>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
